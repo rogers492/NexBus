@@ -5,7 +5,7 @@
 -----------------------------------------------------------------------------------------
 
 print ("nexBus is running") -- console output
-local myTextObject1 = display.newText("Hi Pippa!", 160, 240, "Arial", 24)
+local myTextObject1 = display.newText("Hello!", 160, 240, "Arial", 24)
 local myTextObject2 = display.newText("Tap the screen to open a text", 160, 260, "Arial", 16)
 local myTextObject3 = display.newText("that you can send to request bus times", 160, 280, "Arial", 16)
 local myTextObject4 = display.newText("from Bow Garage to Exeter", 160, 300, "Arial", 16)
